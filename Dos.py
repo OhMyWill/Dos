@@ -38,11 +38,11 @@ def wibu():
 
                 s.sendto(asu)
 
-            print("[•] ARI ATTACK!!!")
+            print("[#] ARI ATTACK!!!")
 
         except:
 
-            print("[•] ARI ATTACK!!!")
+            print("[#] ARI ATTACK!!!")
 
 for y in range(threads_wibu):
 
