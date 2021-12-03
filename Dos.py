@@ -7,7 +7,6 @@ import random
 import threading
 
 import os,sys
-
 print("Welcome To Simple Dos")
 
 ip_wibu = str(input("Ip Target : "))
